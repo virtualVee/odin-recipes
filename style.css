@@ -4,10 +4,10 @@ html * {
   font-family: "Quicksand", sans-serif;
 }
 
-body {
-  max-width: 500px;
-  height: max-content;
-  margin: auto;
+#align-centre {
+  width: 600px;
+  margin: 0 auto;
+  text-align: left;
 }
 
 a:hover {
@@ -22,6 +22,7 @@ img {
   height: 600px;
   width: 500px;
 }
+
 input[type="button"]:hover {
   background-color: black;
   color: white;
